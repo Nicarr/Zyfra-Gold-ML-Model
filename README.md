@@ -38,3 +38,5 @@ The project follows these key steps:
 Ensure you have Python installed, then install the required libraries using:
 ```bash
 pip install -r requirements.txt
+
+jupyter notebook Integrated_Project.ipynb
